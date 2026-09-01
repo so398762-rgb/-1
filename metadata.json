@@ -1,0 +1,6 @@
+{
+  "name": "Tsunami City Simulator",
+  "description": "Interactive coastal disaster science simulation demonstrating tsunami dynamics and urban structural impact across varying intensities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
